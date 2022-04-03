@@ -68,7 +68,7 @@
           <h1>Welcome to <span>vella soaps</span></h1>
           <h2>Delivering great prducts for you !</h2>
           <div class="btns">
-                <a href="./index.html" class="btn-menu animated fadeInUp scrollto">Home</a>
+                <a href="./index.php" class="btn-menu animated fadeInUp scrollto">Home</a>
             <a href="./product.php" class="btn-menu animated fadeInUp scrollto">Our products</a>
             <a href="./blog.php" class="btn-book animated fadeInUp scrollto">Blog</a>
            
