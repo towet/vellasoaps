@@ -8,15 +8,8 @@
                         
                           
 	<head>
-	
-			<nav id="nav">
-					<ul>
-						<li class="active"><a href="index.html">Homepage</a></li>
+		<?php include('includes/nav.php'); ?>
 
-						
-						<li><a href="right-sidebar.html"></a></li>
-					
-				</nav>
 
 	
 
@@ -44,7 +37,6 @@
 
 		<!-- Header -->
 		
-
 		<!-- Main -->
 		<div id="main">
 			<div class="container">
