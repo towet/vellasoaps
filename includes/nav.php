@@ -13,7 +13,7 @@
     background-color: whi;
 }</style>
                                 </head>
-                                <body oncontextmenu='return false' class='snippet-body'>
+                                <body oncontextmenu='return false' class='snippet-body' class="homepage">
                                 <nav class="navbar navbar-expand-lg navbar-dark bg-purple" style="background-color:#800080 ;"> <a class="navbar-brand" href="#" data-abc="true">vellasoap</a>
                                     
                                      
