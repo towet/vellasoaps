@@ -8,7 +8,7 @@
                         
                           
 	<head>
-		<?php include('includes/nav.php'); ?>
+	
 
 
 	
@@ -34,6 +34,9 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	</head>
 	<body class="homepage">
+		<li class="nav-item"><a class="nav-link" href="./blog.php">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./product.php">Products</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./contact-form.php">Contact</a></li>
 
 		<!-- Header -->
 		
