@@ -13,7 +13,7 @@
     background-color: whi;
 }</style>
                                 </head>
-                                <body oncontextmenu='return false' class='snippet-body' class="homepage">
+                                <body oncontextmenu='return false' class='snippet-body'>
                                 <nav class="navbar navbar-expand-lg navbar-dark bg-purple" style="background-color:#800080 ;"> <a class="navbar-brand" href="#" data-abc="true">vellasoap</a>
                                     
                                      
@@ -21,7 +21,7 @@
                                 <div class="logo">
                    
                     </div> 
-    <div class="collapse navbar-collapse" id="navbarColor02">
+    <div class="collapse navbar-collapse" id="navbarColor02" class="right-sidebar">
         <ul class="navbar-nav mr-auto">
          
            <li class="nav-item active"><a class="nav-link" href="./index.php">Home</a></li>
