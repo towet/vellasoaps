@@ -8,7 +8,7 @@
                         
                           
 	<head>
-		<?php include('includes/nav.php'); ?>
+	
 	
 
 
@@ -45,11 +45,19 @@
 				
 				<!-- Nav -->
 				<nav id="nav">
-					<ul>
-						<li class="active"><a href="index.html">Homepage</a></li>
-						
-						<li><a href="right-sidebar.html"></a></li>
-					
+				    <div class="collapse navbar-collapse" id="navbarColor02">
+        <ul class="navbar-nav mr-auto">
+         
+           <li class="nav-item active"><a class="nav-link" href="./index.html">Home</a></li>
+              <li class="nav-item"><a class="nav-link" href="./about.php">About us</a></li>
+                  
+                    <li class="nav-item"><a class="nav-link" href="./blog.php">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./product.php">Products</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./contact-form.php">Contact</a></li>
+                </ul>
+        </ul>
+      
+    </div>
 				</nav>
 			</div>
 		</div>
